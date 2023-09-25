@@ -89,12 +89,12 @@ In:Cense 메인 화면에서 주요 서비스로 쉽게 이동할 수 있습니�
 ```
 <img src=".\document\images\나눔판매.gif">
 
-<br>
+<br><br>
 
 ## 🎥 UCC
 👉 [보러가기](https://github.com/yuuforest/In-Cense/blob/master/document/ucc/InCense.mp4)
 
-<br>
+<br><br>
 
 ## 🔬 개발 과정
 
@@ -128,7 +128,7 @@ In:Cense 메인 화면에서 주요 서비스로 쉽게 이동할 수 있습니�
 **BigData**
 <img src=".\document\images\wbs5.png">
 
-<br>
+<br><br>
 
 ## 🚴 팀원소개
 

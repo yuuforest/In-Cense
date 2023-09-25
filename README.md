@@ -17,12 +17,6 @@
 
 <br><br>
 
-## 🚴 팀원소개
-
-<img src=".\document\images\팀원소개.jpg">
-
-<br><br>
-
 ## 🔌 서비스 아키텍처 및 기술스택
 <img src=".\document\images\아키텍쳐.png">
 
@@ -134,5 +128,8 @@ In:Cense 메인 화면에서 주요 서비스로 쉽게 이동할 수 있습니�
 **BigData**
 <img src=".\document\images\wbs5.png">
 
-
 <br>
+
+## 🚴 팀원소개
+
+<img src=".\document\images\팀원소개.jpg">
